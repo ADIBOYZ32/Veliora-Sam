@@ -4,11 +4,6 @@ import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 import { VRMLoaderPlugin, VRMUtils } from '@pixiv/three-vrm';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 
-// Import the specific VRM file URL directly
-// Note: You need to ensure your build tool handles .vrm files or move it to public folder
-// If this import fails, move MRig.vrm to public/MRig.vrm and use "/MRig.vrm"
-import modelUrl from '../../assets/MRig.vrm?url';
-
 export function InteractiveModel() {
     const containerRef = useRef<HTMLDivElement>(null);
     const [loading, setLoading] = useState(true);
@@ -58,7 +53,7 @@ export function InteractiveModel() {
         });
 
         loader.load(
-            modelUrl, // Use the imported URL
+            "/MRig.vrm", // Use public path
             (gltf) => {
                 const vrm = gltf.userData.vrm;
 
