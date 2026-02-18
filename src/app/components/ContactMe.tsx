@@ -125,6 +125,16 @@ export function ContactMe() {
         <div className="mt-16 pt-8 border-t border-white/10 text-center">
           <p className="text-gray-400 text-sm">
             © {new Date().getFullYear()} Veliora Sam. All rights reserved.
+            <span className="mx-2">|</span>
+            <span className="text-gray-500">Help by </span>
+            <a
+              href="https://x.com/SLAY3RR_arch"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-pink-400/80 hover:text-pink-400 transition-colors"
+            >
+              SLAY3RR
+            </a>
           </p>
         </div>
       </div>

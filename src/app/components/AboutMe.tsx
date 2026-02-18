@@ -28,8 +28,34 @@ export function AboutMe() {
             </p>
           </div>
 
+          {/* About Me Images */}
+          <div className="mt-12 grid grid-cols-1 sm:grid-cols-3 gap-6">
+            {['am1.jpeg', 'am2.jpeg', 'am3.jpeg'].map((img, i) => (
+              <motion.div
+                key={img}
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.5, delay: i * 0.1 }}
+                whileHover={{
+                  scale: 1.05,
+                  rotateZ: i % 2 === 0 ? 1 : -1,
+                  filter: "drop-shadow(0 0 20px rgba(236, 72, 153, 0.4))"
+                }}
+                className="relative group rounded-2xl overflow-hidden border border-white/10 bg-[#1a1025] aspect-[4/5] shadow-2xl"
+              >
+                <img
+                  src={`/about me/${img}`}
+                  alt={`Veliora Sam ${i + 1}`}
+                  className="w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-all duration-500"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-[#1a1025] via-transparent to-transparent opacity-60 group-hover:opacity-20 transition-opacity"></div>
+              </motion.div>
+            ))}
+          </div>
+
           {/* Decorative elements */}
-          <div className="mt-12 flex justify-center gap-4">
+          <div className="mt-16 flex justify-center gap-4">
             <div className="w-16 h-1 bg-gradient-to-r from-pink-500 to-transparent rounded-full"></div>
             <div className="w-16 h-1 bg-gradient-to-r from-rose-500 to-transparent rounded-full"></div>
           </div>
