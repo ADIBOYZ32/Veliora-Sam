@@ -522,6 +522,8 @@ export function Services() {
                                 src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/lore%20animation/lore%20(1).mp4"
                                 autoPlay loop playsInline
                                 controls
+                                controlsList="nodownload"
+                                onContextMenu={(e) => e.preventDefault()}
                                 preload="metadata"
                                 className="w-full h-auto block"
                               />

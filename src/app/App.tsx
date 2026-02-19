@@ -6,6 +6,7 @@ import { Services } from "./components/Services";
 import { ContactMe } from "./components/ContactMe";
 import { CustomCursor } from "./components/CustomCursor";
 import { LoadingScreen } from "./components/LoadingScreen";
+import { Analytics } from "@vercel/analytics/react";
 
 export default function App() {
   const [isLoading, setIsLoading] = useState(true);
@@ -22,6 +23,7 @@ export default function App() {
           <AboutMe />
           <Services />
           <ContactMe />
+          <Analytics />
         </>
       )}
     </div>
