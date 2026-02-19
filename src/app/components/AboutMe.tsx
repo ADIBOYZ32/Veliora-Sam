@@ -45,7 +45,7 @@ export function AboutMe() {
                 className="relative group rounded-2xl overflow-hidden border border-white/10 bg-[#1a1025] aspect-[4/5] shadow-2xl"
               >
                 <img
-                  src={`/about me/${img}`}
+                  src={`https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/about%20me/${img}`}
                   alt={`Veliora Sam ${i + 1}`}
                   className="w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-all duration-500"
                 />

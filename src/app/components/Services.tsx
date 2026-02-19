@@ -122,14 +122,14 @@ export function Services() {
                                   </p>
                                 </div>
                                 <div className="rounded-xl overflow-hidden border border-white/10 shadow-2xl order-1 md:order-2">
-                                  <img src="/Design Method/de1.jpeg" alt="Outline Creation" className="w-full h-auto grayscale opacity-80 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-700" />
+                                  <img src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/Design%20Method/de1.jpeg" alt="Outline Creation" className="w-full h-auto grayscale opacity-80 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-700" />
                                 </div>
                               </div>
 
                               {/* Step 02 */}
                               <div className="grid md:grid-cols-2 gap-8 items-center">
                                 <div className="rounded-xl overflow-hidden border border-white/10 shadow-2xl">
-                                  <img src="/Design Method/de2.jpeg" alt="Base Coloring" className="w-full h-auto opacity-80 group-hover:opacity-100 transition-all duration-700" />
+                                  <img src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/Design%20Method/de2.jpeg" alt="Base Coloring" className="w-full h-auto opacity-80 group-hover:opacity-100 transition-all duration-700" />
                                 </div>
                                 <div className="space-y-4">
                                   <div className="flex items-center gap-3">
@@ -154,7 +154,7 @@ export function Services() {
                                   </p>
                                 </div>
                                 <div className="rounded-xl overflow-hidden border border-white/10 shadow-2xl order-1 md:order-2">
-                                  <img src="/Design Method/de3-2d1.jpeg" alt="Final Design" className="w-full h-auto opacity-80 group-hover:opacity-100 transition-all duration-700" />
+                                  <img src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/2d%20model/de3-2d1.jpeg" alt="Final Design" className="w-full h-auto opacity-80 group-hover:opacity-100 transition-all duration-700" />
                                 </div>
                               </div>
                             </div>
@@ -170,13 +170,13 @@ export function Services() {
                                 whileHover={{ scale: 1.05, filter: "drop-shadow(0 0 15px rgba(236, 72, 153, 0.5))" }}
                                 className="rounded-xl overflow-hidden border border-white/10 bg-black aspect-video shadow-xl"
                               >
-                                <img src="/3d model/3d1.webp" alt="3D Model" className="w-full h-full object-contain" />
+                                <img src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/3d%20model/3d1.webp" alt="3D Model" className="w-full h-full object-contain" />
                               </motion.div>
                               <motion.div
                                 whileHover={{ scale: 1.05, filter: "drop-shadow(0 0 15px rgba(168, 85, 247, 0.5))" }}
                                 className="rounded-xl overflow-hidden border border-white/10 bg-[#1a1025] shadow-xl"
                               >
-                                <img src="/3d model/3d3.jpeg" alt="3D Model" className="w-full h-auto block" />
+                                <img src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/3d%20model/3d3.jpeg" alt="3D Model" className="w-full h-auto block" />
                               </motion.div>
                             </div>
                             {/* Bottom Row: 3d2 centered rectangle */}
@@ -185,7 +185,7 @@ export function Services() {
                                 whileHover={{ scale: 1.05, filter: "drop-shadow(0 0 15px rgba(236, 72, 153, 0.5))" }}
                                 className="rounded-xl overflow-hidden border border-white/10 bg-black aspect-video shadow-xl"
                               >
-                                <img src="/3d model/3d2.jpeg" alt="3D Model" className="w-full h-full object-contain" />
+                                <img src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/3d%20model/3d2.jpeg" alt="3D Model" className="w-full h-full object-contain" />
                               </motion.div>
                             </div>
                           </div>
@@ -207,7 +207,7 @@ export function Services() {
                                   whileHover={{ scale: 1.05, filter: "drop-shadow(0 0 15px rgba(236, 72, 153, 0.5))" }}
                                   className="rounded-xl overflow-hidden border border-white/10 bg-[#1a1025] shadow-xl order-1 md:order-2"
                                 >
-                                  <img src="/2d model/de3-2d1.jpeg" alt="2D Model 1" className="w-full h-auto block" />
+                                  <img src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/2d%20model/de3-2d1.jpeg" alt="2D Model 1" className="w-full h-auto block" />
                                 </motion.div>
                               </div>
 
@@ -217,7 +217,7 @@ export function Services() {
                                   whileHover={{ scale: 1.05, filter: "drop-shadow(0 0 15px rgba(168, 85, 247, 0.5))" }}
                                   className="rounded-xl overflow-hidden border border-white/10 bg-black shadow-xl"
                                 >
-                                  <img src="/2d model/model.jpeg" alt="Character Concept" className="w-full h-auto block" />
+                                  <img src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/2d%20model/model.jpeg" alt="Character Concept" className="w-full h-auto block" />
                                 </motion.div>
                                 <div className="space-y-4">
                                   <div className="flex items-center gap-3">
@@ -249,7 +249,7 @@ export function Services() {
                                   whileHover={{ scale: 1.02 }}
                                   className="rounded-xl overflow-hidden border border-white/10 shadow-2xl order-1 md:order-2 bg-black aspect-video"
                                 >
-                                  <video src="/rigged model/2d/rig1.mp4" autoPlay loop muted playsInline className="w-full h-full object-contain" />
+                                  <video src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/rigged%20model/2d/rig1.mp4" autoPlay loop muted playsInline className="w-full h-full object-contain" />
                                 </motion.div>
                               </div>
 
@@ -259,7 +259,7 @@ export function Services() {
                                   whileHover={{ scale: 1.02 }}
                                   className="rounded-xl overflow-hidden border border-white/10 shadow-2xl bg-black"
                                 >
-                                  <video src="/rigged model/2d/rig2.mp4" autoPlay loop muted playsInline className="w-full h-auto block" />
+                                  <video src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/rigged%20model/2d/rig2.mp4" autoPlay loop muted playsInline className="w-full h-auto block" />
                                 </motion.div>
                                 <div className="space-y-4">
                                   <div className="flex items-center gap-3">
@@ -287,7 +287,7 @@ export function Services() {
                                   whileHover={{ scale: 1.02 }}
                                   className="rounded-xl overflow-hidden border border-white/10 shadow-2xl order-1 md:order-2 bg-black aspect-video"
                                 >
-                                  <video src="/rigged model/3d/rig31.mp4" autoPlay loop muted playsInline className="w-full h-full object-contain" />
+                                  <video src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/rigged%20model/3d/rig31.mp4" autoPlay loop muted playsInline className="w-full h-full object-contain" />
                                 </motion.div>
                               </div>
 
@@ -297,7 +297,7 @@ export function Services() {
                                   whileHover={{ scale: 1.02 }}
                                   className="rounded-xl overflow-hidden border border-white/10 shadow-2xl bg-black"
                                 >
-                                  <video src="/rigged model/3d/Rig32.mp4" autoPlay loop muted playsInline className="w-full h-auto block" />
+                                  <video src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/rigged%20model/3d/Rig32.mp4" autoPlay loop muted playsInline className="w-full h-auto block" />
                                 </motion.div>
                                 <div className="space-y-4">
                                   <div className="flex items-center gap-3">
@@ -324,7 +324,7 @@ export function Services() {
                                   className="rounded-xl overflow-hidden border border-white/10 bg-black shadow-xl"
                                 >
                                   <video
-                                    src={`/Animated Overlays & Emotes/${vid}`}
+                                    src={`https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/Animated%20Overlays%20&%20Emotes/${vid}`}
                                     autoPlay loop muted playsInline
                                     className="w-full h-auto block"
                                   />
@@ -341,7 +341,7 @@ export function Services() {
                               }}
                               className="rounded-2xl overflow-hidden border border-white/10 bg-[#1a1025] shadow-2xl mx-auto max-w-[500px]"
                             >
-                              <img src="/gaming flyer/GF.jpeg" alt="Gaming Flyer" className="w-full h-auto" />
+                              <img src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/gaming%20flyer/GF.jpeg" alt="Gaming Flyer" className="w-full h-auto" />
                             </motion.div>
                           </div>
                         ) : service.name === "Mascot Logo" ? (
@@ -356,7 +356,7 @@ export function Services() {
                                   }}
                                   className="rounded-xl overflow-hidden border border-white/10 bg-[#1a1025] aspect-square shadow-xl"
                                 >
-                                  <img src={`/mascot logos/${img}`} alt={`Mascot ${i + 1}`} className="w-full h-full object-cover" />
+                                  <img src={`https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/mascot%20logos/${img}`} alt={`Mascot ${i + 1}`} className="w-full h-full object-cover" />
                                 </motion.div>
                               ))}
                             </div>
@@ -370,7 +370,7 @@ export function Services() {
                                   }}
                                   className="rounded-xl overflow-hidden border border-white/10 bg-[#1a1025] aspect-square shadow-xl"
                                 >
-                                  <img src={`/mascot logos/${img}`} alt={`Mascot ${i + 4}`} className="w-full h-full object-cover" />
+                                  <img src={`https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/mascot%20logos/${img}`} alt={`Mascot ${i + 4}`} className="w-full h-full object-cover" />
                                 </motion.div>
                               ))}
                             </div>
@@ -387,7 +387,7 @@ export function Services() {
                                   }}
                                   className="rounded-xl overflow-hidden border border-white/10 bg-[#1a1025] aspect-video shadow-xl"
                                 >
-                                  <img src={`/twitch emotes/${img}`} alt="Twitch Emote" className="w-full h-full object-cover" />
+                                  <img src={`https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/twitch%20emotes/${img.replace(' ', '%20')}`} alt="Twitch Emote" className="w-full h-full object-cover" />
                                 </motion.div>
                               ))}
                             </div>
@@ -401,7 +401,7 @@ export function Services() {
                                   }}
                                   className="rounded-xl overflow-hidden border border-white/10 bg-[#1a1025] aspect-video shadow-xl"
                                 >
-                                  <img src={`/twitch emotes/${img}`} alt="Twitch Emote" className="w-full h-full object-cover" />
+                                  <img src={`https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/twitch%20emotes/${img.replace(' ', '%20')}`} alt="Twitch Emote" className="w-full h-full object-cover" />
                                 </motion.div>
                               ))}
                             </div>
@@ -418,7 +418,7 @@ export function Services() {
                                   }}
                                   className="rounded-xl overflow-hidden border border-white/10 bg-[#1a1025] aspect-video shadow-xl"
                                 >
-                                  <img src={`/twitch overlays/${img}`} alt="Twitch Overlay" className="w-full h-full object-cover" />
+                                  <img src={`https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/twitch%20overlays/${img}`} alt="Twitch Overlay" className="w-full h-full object-cover" />
                                 </motion.div>
                               ))}
                             </div>
@@ -430,7 +430,7 @@ export function Services() {
                                 }}
                                 className="rounded-xl overflow-hidden border border-white/10 bg-[#1a1025] aspect-video shadow-xl"
                               >
-                                <img src="/twitch overlays/TwOV (3).jpeg" alt="Twitch Overlay" className="w-full h-full object-cover" />
+                                <img src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/twitch%20overlays/TwOV%20(3).jpeg" alt="Twitch Overlay" className="w-full h-full object-cover" />
                               </motion.div>
                             </div>
                           </div>
@@ -446,7 +446,7 @@ export function Services() {
                                   }}
                                   className="rounded-xl overflow-hidden border border-white/10 bg-[#1a1025] aspect-video shadow-xl"
                                 >
-                                  <img src={`/gaming headers/${img}`} alt="Gaming Header" className="w-full h-full object-cover" />
+                                  <img src={`https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/gaming%20headers/${img.replace(' ', '%20')}`} alt="Gaming Header" className="w-full h-full object-cover" />
                                 </motion.div>
                               ))}
                             </div>
@@ -460,7 +460,7 @@ export function Services() {
                                   }}
                                   className="rounded-xl overflow-hidden border border-white/10 bg-[#1a1025] aspect-video shadow-xl"
                                 >
-                                  <img src={`/gaming headers/${img}`} alt="Gaming Header" className="w-full h-full object-cover" />
+                                  <img src={`https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/gaming%20headers/${img.replace(' ', '%20')}`} alt="Gaming Header" className="w-full h-full object-cover" />
                                 </motion.div>
                               ))}
                             </div>
@@ -474,7 +474,7 @@ export function Services() {
                                   }}
                                   className="rounded-xl overflow-hidden border border-white/10 bg-[#1a1025] aspect-video shadow-xl"
                                 >
-                                  <img src={`/gaming headers/${img}`} alt="Gaming Header" className="w-full h-full object-cover" />
+                                  <img src={`https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/gaming%20headers/${img.replace(' ', '%20')}`} alt="Gaming Header" className="w-full h-full object-cover" />
                                 </motion.div>
                               ))}
                             </div>
@@ -491,7 +491,7 @@ export function Services() {
                                   }}
                                   className="rounded-xl overflow-hidden border border-white/10 bg-[#1a1025] aspect-video shadow-xl"
                                 >
-                                  <img src={`/Room Arts/${img}`} alt="Room Art" className="w-full h-full object-cover" />
+                                  <img src={`https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/Room%20Arts/${img.replace(' ', '%20')}`} alt="Room Art" className="w-full h-full object-cover" />
                                 </motion.div>
                               ))}
                             </div>
@@ -503,7 +503,7 @@ export function Services() {
                                 }}
                                 className="rounded-xl overflow-hidden border border-white/10 bg-[#1a1025] aspect-video shadow-xl"
                               >
-                                <img src="/Room Arts/room (3).jpeg" alt="Room Art" className="w-full h-full object-cover" />
+                                <img src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/Room%20Arts/room%20(3).jpeg" alt="Room Art" className="w-full h-full object-cover" />
                               </motion.div>
                             </div>
                           </div>

@@ -1,0 +1,68 @@
+2d model:
+de3-2d1 - https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/2d%20model/de3-2d1.jpeg
+model - https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/2d%20model/model.jpeg
+
+3d model:
+3d1- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/3d%20model/3d1.webp 
+3d2- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/3d%20model/3d2.jpeg
+3d3- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/3d%20model/3d3.jpeg
+
+about me:
+am1- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/about%20me/am1.jpeg
+am2- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/about%20me/am2.jpeg
+am3- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/about%20me/am3.jpeg
+de1- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/about%20me/de1.jpeg
+
+Animated Overlays & Emotes:
+AniOver1- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/Animated%20Overlays%20&%20Emotes/AniOver1.mp4
+AniOver2- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/Animated%20Overlays%20&%20Emotes/AniOver2.mp4
+
+Design Method:
+de1- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/Design%20Method/de1.jpeg
+de2- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/Design%20Method/de2.jpeg
+de3-2d1 - https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/2d%20model/de3-2d1.jpeg
+
+gaming flyer:
+GF- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/gaming%20flyer/GF.jpeg
+
+gaming headers:
+GH (1)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/gaming%20headers/GH%20(1).jpeg
+GH (2)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/gaming%20headers/GH%20(2).jpeg
+GH (3)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/gaming%20headers/GH%20(3).jpeg
+GH (4)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/gaming%20headers/GH%20(4).jpeg
+GH (5)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/gaming%20headers/GH%20(5).jpeg
+GH(6)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/gaming%20headers/GH(6).jpg
+
+mascot logo:
+ml1- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/mascot%20logos/ml1.jpeg
+ml2- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/mascot%20logos/ml2.jpeg
+ml3- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/mascot%20logos/ml3.jpeg
+ml4 (1)-https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/mascot%20logos/ml4%20(1).jpeg 
+ml5- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/mascot%20logos/ml5.jpeg
+ml6- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/mascot%20logos/ml6.jpeg
+
+rigged model: 
+ 
+2d: 
+rig1- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/rigged%20model/2d/rig1.mp4
+rig2- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/rigged%20model/2d/rig2.mp4
+
+3d:
+rig31- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/rigged%20model/3d/rig31.mp4
+rig32- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/rigged%20model/3d/rig32.mp4
+
+Room Arts:
+room (1)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/Room%20Arts/room%20(1).jpeg
+room (2)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/Room%20Arts/room%20(2).jpeg
+room (3)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/Room%20Arts/room%20(3).jpeg
+
+twitch emotes:
+TE (1)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/twitch%20emotes/TE%20(1).jpeg
+TE (2)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/twitch%20emotes/TE%20(2).jpeg
+TE (3)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/twitch%20emotes/TE%20(3).jpeg
+TE (4)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/twitch%20emotes/TE%20(4).jpeg
+
+twitch overlays:
+TwOV (1)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/twitch%20overlays/TwOV%20(1).jpeg
+TwOV (2)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/twitch%20overlays/TwOV%20(2).jpeg
+TwOV (3)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/twitch%20overlays/TwOV%20(3).jpeg
