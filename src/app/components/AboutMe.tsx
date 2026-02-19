@@ -47,6 +47,8 @@ export function AboutMe() {
                 <img
                   src={`https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/about%20me/${img}`}
                   alt={`Veliora Sam ${i + 1}`}
+                  loading="lazy"
+                  decoding="async"
                   className="w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-all duration-500"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#1a1025] via-transparent to-transparent opacity-60 group-hover:opacity-20 transition-opacity"></div>
