@@ -26,6 +26,7 @@ const services = [
   { name: "Twitch Overlays", icon: Tv, description: "Stream overlays that elevate your broadcast quality." },
   { name: "Animated Overlays & Emotes", icon: Sparkles, description: "Motion graphics that add fluid energy to streams." },
   { name: "Room Arts", icon: Home, description: "Immersive environment designs for virtual sets." },
+  { name: "Lore Animation", icon: Film, description: "Epic cinematic storytelling and detailed character lore animations." },
   { name: "Design Method", icon: Palette, description: "My proprietary creative process from concept to final." }
 ];
 
@@ -507,6 +508,27 @@ export function Services() {
                                 <img src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/Room%20Arts/room%20(3).jpeg" alt="Room Art" loading="lazy" decoding="async" className="w-full h-full object-cover" />
                               </motion.div>
                             </div>
+                          </div>
+                        ) : service.name === "Lore Animation" ? (
+                          <div className="p-6">
+                            <motion.div
+                              whileHover={{
+                                scale: 1.01,
+                                filter: "drop-shadow(0 0 30px rgba(236, 72, 153, 0.4))"
+                              }}
+                              className="rounded-2xl overflow-hidden border border-white/10 bg-black shadow-2xl relative group/video"
+                            >
+                              <video
+                                src="https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/lore%20animation/lore%20(1).mp4"
+                                autoPlay loop playsInline
+                                controls
+                                preload="metadata"
+                                className="w-full h-auto block"
+                              />
+                              <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-0 group-hover/video:opacity-100 transition-opacity duration-500 flex items-end p-6 pointer-events-none">
+                                <p className="text-white/90 text-sm font-medium italic font-serif tracking-wide drop-shadow-md">Cinematic Character Lore - Animated Storyboard</p>
+                              </div>
+                            </motion.div>
                           </div>
                         ) : (
                           <div className="aspect-video w-full h-full flex items-center justify-center text-gray-600 font-mono text-xs uppercase tracking-tighter">

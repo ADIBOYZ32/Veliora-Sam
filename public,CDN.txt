@@ -66,3 +66,6 @@ twitch overlays:
 TwOV (1)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/twitch%20overlays/TwOV%20(1).jpeg
 TwOV (2)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/twitch%20overlays/TwOV%20(2).jpeg
 TwOV (3)- https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/twitch%20overlays/TwOV%20(3).jpeg
+
+lore animation:
+lore (1): https://zpzirzwzuiyyalfmdvsw.supabase.co/storage/v1/object/public/athetheria-assets/public/lore%20animation/lore%20(1).mp4

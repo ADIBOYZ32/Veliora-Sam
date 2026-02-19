@@ -32,3 +32,21 @@ logs/
 npm-debug.log*
 yarn-debug.log*
 pnpm-debug.log*
+
+# Public Assets (Serving from CDN)
+public/2d model/
+public/3d model/
+public/Animated Overlays & Emotes/
+public/Design Method/
+public/Room Arts/
+public/about me/
+public/gaming flyer/
+public/gaming headers/
+public/mascot logos/
+public/rigged model/
+public/twitch emotes/
+public/twitch overlays/
+public/lore animation/
+
+# CDN Link database
+public,CDN.txt
